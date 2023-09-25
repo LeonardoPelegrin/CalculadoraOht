@@ -4,8 +4,8 @@ Segue a atividade de Leonardo Pelegrin Rocha referente a disciplina Qualidade e 
 
 
 ## Explicação
-No arquivo CalculadoraOht segue a primeira etapa da atividade : ETAPA 1 - CALCULADORA TESTE.                                                                                                                                                                              
-          No arquivo CalculadoraOhtJunitTest segue a segunda etapa da atividade : ETAPA 2 - CALCULADORA TEST JUNIT 
+No arquivo CalculadoraOht segue a primeira etapa da atividade : ETAPA 1 - CALCULADORA TESTE no qual foi realizado na IDE Netbeans v.13.                                                                                                                                                                              
+          No arquivo CalculadoraOhtJunitTest segue a segunda etapa da atividade : ETAPA 2 - CALCULADORA TEST JUNIT no qual foi realizado na IDE Eclipse.
 
 
 ## Publicação
