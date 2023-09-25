@@ -1,6 +1,6 @@
 # CalculadoraOht
 ##  Descrição
-Segue a atividade de Leonardo Pelegrin Rocha referente a disciplina Qualidade e Testes de Software.
+Segue a atividade de Leonardo Pelegrin Rocha referente a disciplina Qualidade e Testes de Software. A atividade solicita um projeto de testes de uma calculadora baseado nas operações Divisão, Multiplicação, Adição e Subtração.
 
 
 ## Explicação
